@@ -6,7 +6,7 @@ Welcome to my Ad-hoc Consumer Goods Insights Data Analysis Project! This project
 <h1> Objective </h1>  
 The objective of this project is to provide ad-hoc insights to the marketing and sales team of Atliq Hardwares. based on the analysis of the sales data. The insights provided will help the team to identify areas for improvement and to make data-driven decisions.
 
-</h1> Data </h1>
+<h1> Data </h1> 
 This file provides a comprehensive overview of the tables found in the 'gdb023' (atliq_hardware_db) database. It includes information for six main tables:<br>
 
 1. dim_customer: contains customer-related data
