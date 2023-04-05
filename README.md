@@ -9,7 +9,7 @@ The objective of this project is to provide ad-hoc insights to the marketing and
 <h1> Tools Used </h1> 
 The project was done using the following tools:<br>
 - SQL<br>
-- Power BI
+- Power BI<br>
 
 </h1> Data </h1>
 This file provides a comprehensive overview of the tables found in the 'gdb023' (atliq_hardware_db) database. It includes information for six main tables:<br>
