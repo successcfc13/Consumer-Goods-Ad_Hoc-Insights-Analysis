@@ -28,6 +28,7 @@ SQL Analysis: The data was analyzed using SQL to identify trends and patterns.<b
 
 Power BI Visualization: The insights were visualized in Power BI to provide a clear and concise view of the data.
 
+<h1> Conclusion </h1>
 This Ad-hoc Consumer Goods Insights Data Analysis Project provides valuable insights to the marketing and sales team of XYZ Corp. and helps them to make data-driven decisions. The project can be further extended to include more metrics and to provide deeper insights.
 
 If you have any questions or suggestions, feel free to contact me.
