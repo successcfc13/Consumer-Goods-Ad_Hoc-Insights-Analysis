@@ -10,6 +10,7 @@ The objective of this project is to provide ad-hoc insights to the marketing and
 
 <h1> Data </h1> 
 This file provides a comprehensive overview of the tables found in the 'gdb023' (atliq_hardware_db) database. <br>
+<br>
 It includes information for six main tables:<br>
 
 1. dim_customer: contains customer-related data
