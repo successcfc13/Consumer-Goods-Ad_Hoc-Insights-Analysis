@@ -24,8 +24,8 @@ The project was done using the following tools:<br>
 <h1> Analysis </h1>
 The analysis was done in two phases:<br>
 
-**SQL Analysis**: The data was analyzed using SQL to identify trends and patterns.<br>
-**Power BI Visualization**: The insights were visualized in Power BI to provide a clear and concise view of the data.
+**SQL Analysis** : The data was analyzed using SQL to identify trends and patterns.<br>
+**Power BI Visualization** : The insights were visualized in Power BI to provide a clear and concise view of the data.
 
 <h1> Conclusion </h1>
 This Ad-hoc Consumer Goods Insights Data Analysis Project provides valuable insights to the marketing and sales team of XYZ Corp. and helps them to make data-driven decisions. The project can be further extended to include more metrics and to provide deeper insights.
