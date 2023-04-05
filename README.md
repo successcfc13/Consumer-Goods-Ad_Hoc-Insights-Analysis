@@ -6,11 +6,6 @@ Welcome to my Ad-hoc Consumer Goods Insights Data Analysis Project! This project
 <h1> Objective </h1>  
 The objective of this project is to provide ad-hoc insights to the marketing and sales team of Atliq Hardwares. based on the analysis of the sales data. The insights provided will help the team to identify areas for improvement and to make data-driven decisions.
 
-<h1> Tools Used </h1> 
-The project was done using the following tools:<br>
-- SQL<br>
-- Power BI<br>
-
 </h1> Data </h1>
 This file provides a comprehensive overview of the tables found in the 'gdb023' (atliq_hardware_db) database. It includes information for six main tables:<br>
 
@@ -20,3 +15,9 @@ This file provides a comprehensive overview of the tables found in the 'gdb023' 
 4. fact_manufacturing_cost: contains the cost incurred in the production of each product
 5. fact_pre_invoice_deductions: contains pre-invoice deductions information for each product
 6. fact_sales_monthly: contains monthly sales data for each product.
+
+<h1> Tools Used </h1> 
+The project was done using the following tools:<br>
+- SQL<br>
+- Power BI<br>
+
