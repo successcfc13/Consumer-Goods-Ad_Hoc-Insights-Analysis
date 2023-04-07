@@ -1,7 +1,7 @@
 # Ad-hoc Consumer Goods Insights Data Analysis Project
 Provide Insights to Management in Consumer Goods Domain
 
-Welcome to my Ad-hoc Consumer Goods Insights Data Analysis Project! <br>
+**Welcome to my Ad-hoc Consumer Goods Insights Data Analysis Project!** <br>
 <br>
 This project is aimed at providing insights into the consumer goods sales performance of a fictional company called Atliq Hardwares. The data has been collected over a period of one year and consists of various metrics that are important to analyze the sales performance of the company.
 
