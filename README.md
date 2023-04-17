@@ -24,6 +24,7 @@ It includes information for six main tables:<br>
 The project was done using the following tools:<br>
 - SQL<br>
 - Power BI<br>
+- Photoshoop <br>
 
 <h1> Analysis </h1>
 The analysis was done in two phases:<br>
