@@ -35,5 +35,4 @@ The analysis was done in two phases:<br>
 This Ad-hoc Consumer Goods Insights Data Analysis Project provides valuable insights to the marketing and sales team of Atliq Hardwares. and helps them to make data-driven decisions. The project can be further extended to include more metrics and to provide deeper insights.<br>
 <br>
 
-If you have any questions or suggestions, feel free to contact me.
 
