@@ -22,9 +22,9 @@ It includes information for six main tables:<br>
 
 <h1> Tools Used </h1> 
 The project was done using the following tools:<br>
-- SQL<br>
+- MYSQL<br>
 - Power BI<br>
-- Photoshoop <br>
+- Photoshop <br>
 
 <h1> Analysis </h1>
 The analysis was done in two phases:<br>
